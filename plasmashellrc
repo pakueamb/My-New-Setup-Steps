@@ -1,58 +1,12 @@
-[KFileDialog Settings]
-Recent Files[$e]=Shaolin Basket.avi,file:$HOME/Documents/Resumes/Intern_Interview_2_girls_MP3.MP3
-Recent URLs[$e]=file:$HOME/Documents/Resumes/
-detailViewIconSize=0
-
-[KPropertiesDialog]
-Height 1080=444
-Width 1920=420
-
 [Open-with settings]
 CompletionMode=1
-History=spo,spy,code,fir
+History=kat,text,ato,sub,code
 
 [PlasmaRunnerManager]
-LaunchCounts=2 services_applications:terminator.desktop,2 services_applications:org.gnome.Usage.desktop,1 services_applications:timeshift-gtk.desktop,3 services_applications:org.kde.ksysguard.desktop,1 services_applications:gtk-lshw.desktop,1 services_applications:khotkeys.desktop,1 services_applications:spotify.desktop,1 services_applications:Unityhub.desktop,2 services_applications:gnome-system-monitor-kde.desktop,1 services_applications:org.kde.konsole.desktop
+LaunchCounts=2 services_applications:org.gnome.Nautilus.desktop,1 services_applications:org.kde.ksysguard.desktop,1 services_applications:gnome-system-monitor-kde.desktop
 
 [PlasmaTransientsConfig]
 PreloadWeight=0
-
-[PlasmaViews][Panel 112][Defaults]
-thickness=27
-
-[PlasmaViews][Panel 112][Horizontal1920]
-thickness=27
-
-[PlasmaViews][Panel 114]
-panelVisibility=1
-
-[PlasmaViews][Panel 114][Defaults]
-thickness=34
-
-[PlasmaViews][Panel 114][Horizontal1920]
-thickness=34
-
-[PlasmaViews][Panel 168]
-panelVisibility=1
-
-[PlasmaViews][Panel 168][Defaults]
-thickness=36
-
-[PlasmaViews][Panel 168][Horizontal1920]
-thickness=36
-
-[PlasmaViews][Panel 199]
-panelVisibility=1
-
-[PlasmaViews][Panel 199][Defaults]
-maxLength=1920
-minLength=1920
-thickness=36
-
-[PlasmaViews][Panel 199][Horizontal1920]
-maxLength=1920
-minLength=1920
-thickness=36
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=36
@@ -60,49 +14,29 @@ thickness=36
 [PlasmaViews][Panel 2][Horizontal1920]
 thickness=36
 
-[PlasmaViews][Panel 27][Defaults]
-thickness=36
-
-[PlasmaViews][Panel 27][Horizontal1920]
-thickness=36
-
-[PlasmaViews][Panel 51]
+[PlasmaViews][Panel 30]
 alignment=132
-panelVisibility=1
+panelVisibility=2
 
-[PlasmaViews][Panel 51][Defaults]
-minLength=1920
-thickness=30
-
-[PlasmaViews][Panel 51][Horizontal1920]
-minLength=1920
-thickness=30
-
-[PlasmaViews][Panel 84][Defaults]
-thickness=27
-
-[PlasmaViews][Panel 84][Horizontal1920]
-thickness=27
-
-[PlasmaViews][Panel 89]
-alignment=132
-panelVisibility=1
-
-[PlasmaViews][Panel 89][Defaults]
-maxLength=1920
-minLength=1920
+[PlasmaViews][Panel 30][Defaults]
 thickness=36
 
-[PlasmaViews][Panel 89][Horizontal1920]
-maxLength=1920
-minLength=1920
+[PlasmaViews][Panel 30][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 34]
+panelVisibility=2
+
+[PlasmaViews][Panel 34][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 34][Horizontal1920]
 thickness=36
 
 [ScreenConnectors]
 0=eDP1
-1=:1.0
+1=:0.0
 2=HDMI1
-3=:0.0
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js
