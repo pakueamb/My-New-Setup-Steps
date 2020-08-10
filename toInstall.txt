@@ -1,0 +1,102 @@
+Windows
+
+adobe creative cloud
+droidcam
+epic games
+huion tablet
+firefox
+trustmaster
+wallpaper-reddit
+
+Linux
+
+		set locale
+		make windows use UTC time
+		try again creating admin app menu shortcut
+		modify command promt bashrc and bash_profile
+-mathplotlib
+-numpy
+-pandas
+-python-pip
+-python-sklearn-bayes
+-python-virtualenv
+-sklearn
+-tensorboard
+-tensorflow
+atom
+audacity
+baobab
+bash
+blender
+bluez bluez-libs bluez-utils
+cmatrix
+cups
+dconf dconf-editor
+demineur
+discord
+dotnet-runtime dotnet-sdk mono mono-tools monodevelop
+droidcam
+gimp
+gimp
+git
+gnuchess
+godot
+gparted
+grub customizer
+hdparm
+inkspace
+joyutils
+jstest-gtk
+jupyter
+keyutils
+kite
+krita
+libreoffice
+lshw
+lutris
+make
+multi-writer
+neofetch
+obs
+os-prober
+pip
+potify
+pycharm
+scim input method
+solitaire
+spyder
+steam
+sublime-text
+sudoku
+supertux
+supertuxkart
+terminaotor
+timeshift
+tree
+virtualbox
+vs code
+wallpaper-reddit
+wine
+woeusb
+zoom
+unity
+
+extensions
+
+start menu
+control blur on lock screen
+custom hot corner
+dash to dock
+internet speed
+ip finder
+lock keys
+multi-monitor add-on
+openweather
+panel scroll
+sound in put and output chooser
+system monitor
+transparent window moving
+user themses
+
+plasma
+
