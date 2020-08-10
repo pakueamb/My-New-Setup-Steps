@@ -14,71 +14,7 @@ Linux
 		make windows use UTC time
 		try again creating admin app menu shortcut
 		modify command promt bashrc and bash_profile
--mathplotlib
--numpy
--pandas
--python-pip
--python-sklearn-bayes
--python-virtualenv
--sklearn
--tensorboard
--tensorflow
-atom
-audacity
-baobab
-bash
-blender
-bluez bluez-libs bluez-utils
-cmatrix
-cups
-dconf dconf-editor
-demineur
-discord
-dotnet-runtime dotnet-sdk mono mono-tools monodevelop
-droidcam
-gimp
-gimp
-git
-gnuchess
-godot
-gparted
-grub customizer
-hdparm
-inkspace
-joyutils
-jstest-gtk
-jupyter
-keyutils
-kite
-krita
-libreoffice
-lshw
-lutris
-make
-multi-writer
-neofetch
-obs
-os-prober
-pip
-potify
-pycharm
-scim input method
-solitaire
-spyder
-steam
-sublime-text
-sudoku
-supertux
-supertuxkart
-terminaotor
-timeshift
-tree
-virtualbox
-vs code
-wallpaper-reddit
-wine
-woeusb
-zoom
+
 unity
 
 extensions
@@ -99,4 +35,11 @@ transparent window moving
 user themses
 
 plasma
-
+global theme: psion
+plasma style: oxygen
+app style : oxygen
+decoration: pearlDarkBlur
+color : carl
+icons: sensual-breeze-dark
+cursor : darkBolt-cursor
+splash screen: Magenta, sensual-dark-global
