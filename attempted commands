@@ -1,0 +1,56 @@
+starts after reboot out of the key
+
+nmtui
+sudo nano /etc/pacman.conf (uncomment multilib repositories)
+sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist 
+sudo pacman -Syyyuu
+systemctl enable cronie
+sudo pacman -S xf86-video-intel nvidia nvidia-utils nvidia-settings
+sudo pacman -S xorg
+sudo pacman -S sddm 
+sudo systemctl enable sddm
+sudo pacman -S plasma kde-applications xdg-user-dirs packagekit-qt5
+reboot
+
+sudo pacman -S git git-lfs
+git-lfs install
+mkdir APPS
+cd APPS
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+cd ~
+rm APPS/ -Rf
+yay -S timeshift firefox
+
+yay -S tlp
+sudo systemctl enable tlp
+sudo systemctl start tlp
+
+yay -S bumblebee nvidia mesa xf86-video-intel mesa-demos --needed
+sudo gpasswd -a djinnalexio bumblebee
+sudo systemctl enable bumblebeed
+reboot
+
+sudo systemctl status bumblebeed
+optirun glxgears -info
+optirun -v glxgears
+optirun glxspheres64
+yay -S lib32-virtualgl lib32-nvidia-utils
+dmesg | grep bbswitch
+bbswitch
+cat /proc/acpi/bbswitch
+
+systemctl status bumblebeed
+
+sudo tee /proc/acpi/bbswitch <<< OFF
+sudo tee /proc/acpi/bbswitch <<< ON
+sudo nano /etc/bumblebee/bumblebee.conf
+reboot
+
+systemctl status bumblebeed
+cat /proc/acpi/bbswitch
+optirun glxgears
+sudo tee /proc/acpi/bbswitch <<< ON
+systemctl status bumblebeed
+reboot
