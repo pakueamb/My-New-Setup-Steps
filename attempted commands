@@ -27,30 +27,10 @@ yay -S tlp
 sudo systemctl enable tlp
 sudo systemctl start tlp
 
-yay -S bumblebee nvidia mesa xf86-video-intel mesa-demos --needed
-sudo gpasswd -a djinnalexio bumblebee
-sudo systemctl enable bumblebeed
+yay -S optimus-manager
+systemctl status optimus-manager
 reboot
-
-sudo systemctl status bumblebeed
-optirun glxgears -info
-optirun -v glxgears
-optirun glxspheres64
-yay -S lib32-virtualgl lib32-nvidia-utils
-dmesg | grep bbswitch
-bbswitch
-cat /proc/acpi/bbswitch
-
-systemctl status bumblebeed
-
-sudo tee /proc/acpi/bbswitch <<< OFF
-sudo tee /proc/acpi/bbswitch <<< ON
-sudo nano /etc/bumblebee/bumblebee.conf
-reboot
-
-systemctl status bumblebeed
-cat /proc/acpi/bbswitch
-optirun glxgears
-sudo tee /proc/acpi/bbswitch <<< ON
-systemctl status bumblebeed
+yay -S optimus-manager-qt
+glxgears -info
+yay -S bash-completion lsb-release smartmontools
 reboot
