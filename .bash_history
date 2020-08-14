@@ -1,1012 +1,722 @@
-history
-yay -Syu
-yay -R nerd-fonts-source-code-pro
-yay -R font-bitstream-speedo font-mathematica xorg-font-utils
-Windows
-ls
-ls -halF /
-tree / -cD
-yay tree
-tree
-tree -cD
-man tree
-yay -Syu
-ls -d
-ls 
-l-d
-l -d
-man -K git
-ls
-yay pip
-yay pip | grep pip
-pip numpy
-pip3 numpy
-python -m pip3 install numpy
-python -m pip install numpy
-which python
-which python3
-yay numpy
-yay -S python-virtualenv
-man virtualenv
-yay -S python-pip
-virtualenv Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Section\ 2\ -\ Part\ 1\ -\ ANN/
-source Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Section\ 2\ -\ Part\ 1\ -\ ANN/bin/activate
-source Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Section\ 2\ -\ Part\ 1\ -\ ANN/bin/deactivate
-deactivate
-source Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Section\ 2\ -\ Part\ 1\ -\ ANN/bin/activate
-source Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Section\ 2\ -\ Part\ 1\ -\ ANN/bin/activate
-source Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Section\ 2\ -\ Part\ 1\ -\ ANN/bin/activate
-man source
-yay numpy
-yay tenserflow
-yay pandas
-yay tensorflow
-yay python-sklearn
-yay sklearn
-yay python-sklearn
-yay tensorboard
-yay -Syu
-yay python-sklearn-bayes
-yay -Syu
-yay chrome
-lsblk
-python
-python
-yay -Syu
-yay -R python-sklearn-bayes
-yay -S python-sklearn-bayes
-yay -R python-sklearn-bayes
-yay -S python-sklearn-bayes
-cd Documents/Deep_Learning_A_Z/Volume\ 1\ -\ Supervised\ Deep\ Learning/Part\ 1\ -\ Artificial\ Neural\ Networks\ \(ANN\)/Part\ 1\ -\ Artificial\ Neural\ Networks/
-python first_ANN.py 
-python first_ANN.py 
-python first_ANN.py 
-python first_ANN.py 
-python first_ANN.py 
-less Downloads/GameList.csv 
-yay -S gimp
-cd Documents/
-git clone git@github.com:pakueamb/ANN-part1DeepLearningCourse.git
-cd ANN-part1DeepLearningCourse/
-python first_ANN.py 
-yay amy
-yay amy amundsen
-yay amundsen
-yay faile
-yay glaurung
-yay phalanx
-yay toga
-yay crafty
-yay fruit
-yay gnuchess
-yay sjeng
-yay octochess
-yay diablo
-yay hoichess
-yay shredder
-yay chess
-yay chess engine
-yay -S toga2 gnuchess pychess
-yay -R pychess
-which pychess
-pychess
-cd Documents/ANN-part1DeepLearningCourse/
-ls
-ls -a
-python first_ANN.py 
-python3 first_ANN.py 
-python3 first_ANN.py 
-ls
-git rm --cached .vscode/
-git rm --cached .vscode/ -r
-git status
-git commit -a
-git push
-sudo -s
-cd Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/
-ls
-python3 first_ANN.py 
-cd Part1-ArtificialNeuralNetwork/
-python first_ANN.py 
-exit
-cd Part1-ArtificialNeuralNetwork/
-python first_ANN.py 
-python first_ANN.py 
-python first_ANN.py 
-python first_ANN.py 
-cd Part1-ArtificialNeuralNetwork/
-python3 first_ANN.py 
-python3
-cd
-python Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
-python3 Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
-python3 Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
-python3 Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
-python3 Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
-history
-cd Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/
-python3 first_ANN.py 
-python3 first_ANN.py 
-cd Documents/DeepLearningAZcourse/
-git status
-neofetch 
-sudo neofetch 
-sudo nano /etc/locale.gen
-sudo locale-gen
-$LANG
-$LOCALE
-$locale
-$Locale
-locale
-localectl status
-yay -Syu
-yay -S dotnet-runtime dotnet-sdk mono mono-tools monodevelop
-which wine
-man wine
-wine Downloads/osu\!install.exe 
-hwclock
-hwclock -r
-hwclock -rv
-sudo hwclock -rv
-sudo hwclock -show
-sudo hwclock --show
-sudo hwclock -rv
-date
-sudo hwclock -rv
-sudo hwclock -w
-sudo hwclock -rv
-sudo hwclock -systohc
-sudo hwclock --systohc
-sudo hwclock -rv
-sudo hwclock --adjust
-cat /etc/adjtime 
-cat /etc/adjtime 
-cat /etc/default/r
-sudo suspend
-sudo sleep
-man sleep
-sudo hwclock -rv
-timedatectl set-local-rtc 1 --adjust-system-clock
-timedatectl
-timedatectl set-local-rtc 0 --adjust-system-clock
-timedatectl
-sudo hwclock -rv
-yay -Syu
-yay spotify
-yay spotify
-yay -R spotify
-yay spotify
-yay spotify
-yay -Syu
-yay -Syu
-yay -Syu
-yay -Syu
-yay -Syu
-%S baobab
-which baobab-launcher
-baobab
-which gtk-lshw-launcher
-gtk-lshw-launcher
+#
+#bash
+#
 
-gtk-lshw-launcher -si
-gnome-control-center wacom
-which gtk-lshw-launcher
-sudo nano gnome-control-center wacom
-sudo nano /usr/bin/gtk-lshw-launcher
-gtk-lshw-launcher
-which timeshift-launcher
-which gtk-lshw-launcher
-cd /usr/bin
-cat timeshift-launcher 
-cat timeshift-launcher 
-nano timeshift-launcher 
-sudo gtk-lshw
-gtk-lshw-launcher 
-gtk-lshw-launcher 
-cat gtk-lshw-launcher 
-sudo nano gtk-lshw-launcher 
-gtk-lshw-launcher 
-which gtk-lshw
-cat gtk-lshw
-sudo cp timeshift-launcher baobab-launcher
-sudo nano baobab-launcher 
-baobab-launcher 
-gtk-lshw-launcher 
-sudo gtk-lshw-launcher 
-`echo $- | grep "i" >/dev/null 2>&1`
-print `echo $- | grep "i" >/dev/null 2>&1`
-echo $- | grep "i" >/dev/null 2>&1
-echo $- | grep "i" 
-/dev/null 2>&1
-su - -c baobab-launcher 
-xhost +
-xhost -
-xhost +
-baobab-launcher 
-xhost -
-baobab-launcher 
-cat gtk-lshw-launcher 
-ls -halF | grep -launcher
-ls -halF | grep launcher
-nano gtk-lshw-launcher 
-sudo nano gtk-lshw-launcher 
-timeshift-launcher 
-timeshift-launcher 
-cp timeshift-launcher gtk-lshw-launcher 
-sudo cp timeshift-launcher gtk-lshw-launcher 
-gtk-lshw
-sudo gtk-lshw
-cat timeshift-gtk
-baobab
-sudo baobab
-ls -halF | grep timeshift-gtk
-ls -halF | grep baobab
-ls -halF | grep lshw
-sudo baobab-launcher 
-pkexec baobab
-sudo baobab
-sudo baobab
-yay -S python-pillow
-yay -S python-pillow --needed
-yay wallpaper-reddit
-wallpaper-reddit
-wallpaper-reddit
-ls -a
-sudo nano .bash_profile 
-sudo nano .bash_profile 
-ls -h
-ls -ha
-ls -af
-ls -aF
+
+nmtui
+sudo nano /etc/pacman.conf #uncomment multilib repository
+sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist 
+sudo pacman -Syyyuu
+systemctl enable cronie
+sudo pacman -S xf86-video-intel nvidia nvidia-utils nvidia-settings
+sudo pacman -S xorg
+sudo pacman -S sddm 
+sudo systemctl enable sddm
+sudo pacman -S plasma kde-applications xdg-user-dirs packagekit-qt5
+sudo pacman -S git git-lfs
+git-lfs install
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+cd ..
+rm yay/ -Rf
+reboot
+yay -S timeshift firefox
+yay -S optimus-manager
+systemctl status optimus-manager
+reboot
+yay -S optimus-manager-qt
+glxgears -info
+yay -S tlp
+yay -S bash-completion lsb-release smartmontools
+reboot
+history
+locale -a
+locale
+
+exit
+cat /etc/profile.d/bash_completion.sh
+history
+yay -S bash-completion
+a
+a
+history
+cat .bash_history 
+history | grep yay
+cd /
+ls
+sudo dd if=/dev/null of=/.swap bs=1024 count=1 
+sudo dd if=/dev/null of=/.swap bs=1024 count=1024 
+sudo dd if=/dev/zero of=/.swap bs=1024 count=1024 
+sudo dd if=/dev/zero of=/.swap bs=1M count=4096 
+sudo mkswap /.swap 
+sudo chmod 600 .swap 
 ls -l
 ls -la
-vscode .config/wallpaper-reddit/wallpaper-reddit.conf 
-code .config/wallpaper-reddit/wallpaper-reddit.conf 
-mkdir -p /usr/share/backgrounds/reddit
-code .config/wallpaper-reddit/wallpaper-reddit.conf 
-wallpaper-reddit --settitle
-wallpaper-reddit --save
-cat .wallpaper/url.txt 
-cat .wallpaper/title.txt 
-wallpaper-reddit 
-cat .wallpaper/title.txt 
-wallpaper-reddit --save
-wallpaper-reddit 
-wallpaper-reddit --resize
-wallpaper-reddit 
-cat .wallpaper/title.txt 
-wallpaper-reddit 
-wallpaper-reddit 
-wallpaper-reddit 
-wallpaper-reddit 
-man wallpaper-reddit
-wallpaper-reddit 
-exit
-sudo baobab
- env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 33639 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 36691 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 34689 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 34625 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 38391 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 35287 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 44763 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
-env activate
-pip3 install matplolib
-pip3 install matplotlib
-wallpaper-reddit 
-wallpaper-reddit --save
-cat /usr/share/backgrounds/reddit/titles.txt 
-wallpaper-reddit 
- env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 36521 -- "/home/djinnalexio/Documents/DeepLearningAZcourse/Part0-Data Preprocessing/dataProcessing.py" 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 42901 -- "/home/djinnalexio/Documents/DeepLearningAZcourse/Part0-Data Preprocessing/dataProcessing.py" 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 34367 -- "/home/djinnalexio/Documents/DeepLearningAZcourse/Part0-Data Preprocessing/dataProcessing.py" 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 35373 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 44929 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 41789 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 43725 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 43703 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.6.91350/pythonFiles/lib/python/debugpy/launcher 44583 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
-cd /media
-ls
-cd
-cd /
-ls media/
- env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 38599 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 43757 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ANN.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 45721 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 43447 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 33921 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 39611 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 35191 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 41433 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part1-ArtificialNeuralNetwork/first_ann2.py 
-wallpaper-reddit 
-wallpaper-reddit --save
-wallpaper-reddit 
-yay hugo
-wallpaper-reddit 
-wallpaper-reddit 
-wallpaper-reddit
-wallpaper-reddit
-wallpaper-reddit
-.local/share/applications/Unityhub.desktop 
-alias
-code .bash_profile 
-code .bash_history 
-code .bash_logout 
-code .bashrc 
-$PWD
-$NEW_PWD
-wr --save
-alias wr='wallpaper-reddit'
-wr --save
-wr
-code .config/wallpaper-reddit/wallpaper-reddit.conf 
-wr
-wr
-wrs
-wallpaper-reddit
-yay -u sypder
-yay -u spyder
-yay spyder
-yay -Syu
-cat .config/wallpaper-reddit/wallpaper-reddit.conf 
-wr --save
-wr --save
-sublime-text
-code .config/wallpaper-reddit/wallpaper-reddit.conf 
- env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 36185 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 40539 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 39557 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 36823 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 44125 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 33679 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 45729 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 39671 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 45447 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 33549 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 33701 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 37079 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 45393 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 40553 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 45737 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
- cd /home/djinnalexio/Documents/DeepLearningAZcourse ; env /usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 39169 -- /home/djinnalexio/Documents/DeepLearningAZcourse/Part3-Classification/logisticRegression.py 
-pip3 install matplolib
-pip3 install matplotlib
-wr
-code .config/wallpaper-reddit/wallpaper-reddit.conf 
-yay -Syu
-yay -Syu
-yay -Syu
-yay jscal
-yay jstest-gtk
-yay jstest-gtk
-yay -Syu
-yay-Syu
-yay -Syu
- env /usr/bin/python /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.94776/pythonFiles/lib/python/debugpy/launcher 34957 -- "/home/djinnalexio/Documents/DeepLearningAZcourse/Part0-Data Preprocessing and Logistic Regression/logisticRegression.py" 
-sudo baobab
-yay adb
-wr
-sudo baobab
-wr
-wr
-yay mtp
-yay mtp-tools
-yay mtp
-yay mtp
-lsusb
-nano .bash_profile 
-wrs
-exit
-wr
-yay -Syu
-yay -R droidcam
-yay droidcam
-yay adb
-adb devices
-adb devices
-adb devices
-adb devices
-adb connect GFMDU16C14002632
-adb connect 
-adb connect 192.168.29.145:3810
-adb connect 192.168.29.145:3810
-adb connect 192.168.29.145:4747
-adb connect 192.168.29.145:4343
-adb devices
-adb devices
-kill adb
-adb devices
-adb devices
-adb devices
-kill adb
-yay droidcam
-yay droidcam-git
-yay droidcam
-yay droidcam
-yay droidcam
-yay -R adb
-yay -R android-tools
-adb
-yay -R droidcam
-yay -R droidcam
-yay -S --mflags --skipinteg droidcam-dkms-git
-yay droidcam
-yay droidcam-dkms-git
-yay -R droidcam-dkms-git
-yay -S droidcam
-yay libjpeg-turbo
-yay -S --needed libjpeg-turbo libavutil-dev libswscale-dev libasound2-dev libspeex-dev libusbmuxd-dev libplist-dev
-yay -S --needed libjpeg-turbo libavutil-dev libswscale-dev libasound2-dev libspeex-dev libusbmuxd-dev libplist-dev gtk
-yay -S --needed libjpeg-turbo libavutil-dev libswscale-dev libasound2-dev libspeex-dev libusbmuxd-dev libplist-dev gtk3
-yay libspeex-dev
-yay gcc
-droidcam
-droidcam-cli
-droidcam-cli -v 192.168.29.145:4747
-droidcam-cli -v 192.168.29.145:4747
-droidcam-cli 192.168.29.145:4747 -v
-droidcam-cli 192.168.29.145:3810 -v
-droidcam-cli 192.168.29.145:4748 -v
-droidcam-cli 192.168.29.145:4748 -v
-droidcam-cli 192.168.29.145:4748 
-droidcam-cli -l
-droidcam-cli -l 4748
-droidcam-cli 192.168.29.145:4748 
-droidcam-cli 192.168.29.145 4748 -v
-droidcam-cli 192.168.29.145:4748 -v
-droidcam-cli 192.168.29.145 4748 -v
-droidcam-cli 192.168.29.145 38126 -v
-droidcam-cli 192.168.29.145 4749
-droidcam-cli ?
-?
-man droidcam
-droidcam-cli 192.168.29.145 4749 -a
-systemctl status snd_aloop
-droidcam-cli 192.168.29.145 4749 -v
-droidcam-cli 
-droidcam-cli 192.168.29.145 4749 -v
+swapon .swap
+sudo swapon .swap
+mkswap .swap 
+sudo mkswap .swap 
+sudo mkswap .swap LABEL=DjinnSwap
+sudo mkswap 'LABEL=DjinnSwap' .swap 
+sudo mkswap .swap 
+sudo swapon .swap
 su
 exit
-yay -S plasma kde-applications
-cmatrix
-cat .bashrc 
-cat .bash_history 
-yay -Syu
-neofetch 
-neofetch 
-neofetch 
-neofetch 
-neofetch 
-sudo dpkg-reconfigure sddm
-sudo systemctl stop gdm.service
-systemctl status display-manager
-yay dpkg-reconfigure
-systemctl status sddm.service
-systemctl status gdm.service
-csds
-trgrtetw6hr
-neofetch
-ip a
-wrs
-yay -Syu
-history
-yay -Syu
-reboot
-history -a
-man history
-man history -a
-history
+#1597199674
+hostnamectl
+#1597199721
 exit
-#1596137861
-history
-#1596137882
-rgveftt
-#1596137891
-history
-#1596138116
-born in
-#1596138119
-no life
-#1596138130
-into subjugation
-#1596138133
-exit
-#1596138256
-cat .bash_history 
-#1596138269
-history
-#1596141749
-rm .bash_eternal_history 
-#1596142437
-yay keras
-#1596142476
+#1597199740
+su
+history | grep yay 
+smartctl -i
+smartctl -h
+smartctl --all
+smartctl --all /dev/nvme0n1
+sudo smartctl --all /dev/nvme0n1
+sudo smartctl --all /dev/nvme0n1
 clear
-#1596142484
-yay -Syu
-#1596142610
-yay -Syu
-#1596200841
-baobab
-#1596200856
-sudo baobab
-#1596222773
-nautilus
-#1596306300
-neofetch
-#1596306309
-history
-#1596307411
-calculator
-#1596307538
-kcalc
-#1596387386
-yay git lfs
-#1596387462
-cd Projects/DeepLearningAZcourse/
-#1596387467
-git status
-#1596387473
-git push
-#1596387681
-git username --global
-#1596387938
-ls -a
-#1596387995
-cp -R .* ~/Downloads/stuff
-#1596388010
-cp -R -p .* ~/Downloads/stuf
-#1596388022
-cp -R .* ~/Downloads/stuff
-#1596388030
-mkdir ~/Downloads/stuff
-#1596388032
-cp -R .* ~/Downloads/stuff
-#1596388055
-sudo cp -R .* ~/Downloads/stuff
-#1596388270
-cd Projects/
-#1596388279
-git clone git@github.com:pakueamb/DeepLearningAZcourse.git
-#1596388287
-cd DeepLearningAZcourse/
-#1596388290
-git status
-#1596388408
-git status
-#1596388618
-cd Projects/DeepLearningAZcourse/
-#1596388622
-git status
-#1596388626
-git push
-#1596388922
-yay git-lfs
-#1596388956
-git-lfs
-#1596389404
-git lfs track Convolutional\ Neural\ Network/dataset.zip 
-#1596389516
-git push
-#1596389922
-git status
-#1596389937
-git pull
-#1596389965
-'
-#1596389983
-git pull.rebase false
-#1596390556
-git status
-#1596390680
-cd Projects/
-#1596390691
-git clone file:///home/djinnalexio/Downloads/stuff/Artificial Neural Network
-#1596390692
-file:///home/djinnalexio/Downloads/stuff/Convolutional Neural Network
-#1596390692
-file:///home/djinnalexio/Downloads/stuff/Data Preprocessing and Logistic Regression
-#1596390692
-file:///home/djinnalexio/Downloads/stuff/.gitignore
-#1596390692
-file:///home/djinnalexio/Downloads/stuff/README.md
-#1596390720
-git clone git@github.com:pakueamb/DeepLearningAZcourse.git
-#1596391582
-cd DeepLearningAZcourse/
-#1596391708
-git lfs track "*.zip"
-#1596391722
-git add .gitattributes 
-#1596391979
-git status
-#1596391986
-git status
-#1596392000
-git push
-#1596392945
-git push
-#1596393801
-cd ..
-#1596394088
-git reset HEAD~1
-#1596394103
-cd DeepLearningAZcourse/
-#1596394105
-git reset HEAD~1
-#1596394113
-git status
-#1596394141
-git pull
-#1596394180
-git config --global pull.rebase false
-#1596394188
-git push
-#1596394194
-git status
-#1596394198
-history
-#1596394292
-cat .gitattributes 
-#1596394450
-git lfs track
-#1596394496
-git lfs ls-files
-#1596394516
-git add -a
-#1596394522
-git add --all
-#1596394529
-git commit
-#1596394559
-git lfs ls-files
-#1596394600
-cat .gitattributes 
-#1596394637
-git status
-#1596394649
-git lfs track
-#1596394660
-git lfs ls-files
-#1596394715
-git lfs install
-#1596394722
-git lfs ls-files
-#1596394746
-git lfs track
-#1596394759
-git reset HEAD~1
-#1596394763
-git status
-#1596394773
-git lfs install
-#1596394783
-git lfs track
-#1596394789
-git lfs ls-files
-#1596394847
-git add "*.zip"
-#1596394852
-git status
-#1596394895
-git commit -m "Added pictures for CNN"
-#1596394905
-git lfs ls-files
-#1596394920
-git status
-#1596394926
-git push
-#1596395345
-cd Projects/DeepLearningAZcourse/
-#1596395348
-git status
-#1596395353
-git lfs track
-#1596395359
-git lfs ls-flies
-#1596395369
-git lfs ls-files
-#1596396396
-yay keras
-#1596396564
-yay keras
-#1596396573
-yay keras
-#1596396631
-pip3 install keras
-#1596396662
-pip3 install keras
-#1596395601
-cd Projects/DeepLearningAZcourse/
-#1596395604
-git status
-#1596415914
-/usr/bin/python3 /home/djinnalexio/.vscode-oss/extensions/ms-python.python-2020.7.96456/pythonFiles/pyvsc-run-isolated.py pip install -U autopep8 --user
-#1596478637
-yay -Syu
-#1596480411
-git status
-#1596480425
-git lfs track
-#1596480432
-git lfs ls-files
-#1596480473
-git status
-#1596480482
-history
-#1596651501
-yay -Syu
-#1596651953
-yay -Syu
-#1596651981
-yay -Syu
-#1596730654
-cd Projects/DeepLearningAZcourse/Convolutional_Neural_Network/
-#1596730671
-ls
-#1596730695
-ls
-#1596730707
-ls
-#1596730720
-cat first_CNN.py 
-#1596730738
-cat first_cnn2.py 
-#1596730748
-first_cnn2.py 
-#1596730756
-python first_cnn2.py 
-#1596730809
-code
-#1596760891
-yay -Syu
-#1596761228
-less .config/plasma-org.kde.plasma.desktop-appletsrc 
-#1596761288
-code .config/plasma-org.kde.plasma.desktop-appletsrc 
-#1596761545
-yay -R nerd-fonts-source-code-pro
-#1596761570
-less .config/plasma-org.kde.plasma.desktop-appletsrc 
-#1596762243
-cp .config/plasma-org.kde.plasma.desktop-appletsrc Projects/plasma.txt
-#1596762696
-code .config/plasma-org.kde.plasma.desktop-appletsrc 
-#1596763186
-cd Projects/
-#1596763191
-git
-#1596763213
-git init ComparePlasma
-#1596763220
-cd ComparePlasma/
-#1596763260
-mv ../plasma.txt .
-#1596763261
-ls
-#1596763287
-git commit --all -m added file
-#1596763297
-git status
-#1596763307
-git add
-#1596763320
-git add .
-#1596763322
-ls
-#1596763326
-git status
-#1596763332
-git commit
-#1596763395
-git cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596763414
-cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596763422
-git status
-#1596763434
-git
-#1596763453
-git diff
-#1596764227
-cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596764484
-history
-#1596764526
-cat /usr/bin/code-oss 
-#1596764600
-code
-#1596764269
-cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596764280
-which code
-#1596764391
-code-oss
-#1596764426
-/usr/bin/code
-#1596764434
-sudo /usr/bin/code
-#1596764449
-cat /usr/bin/code
-#1596764491
-history
-#1596806430
-yat bashtop
-#1596806436
-yay bashtop
-#1596806458
-yay -Syu -y
-#1596806809
-bashtop 
-#1596806886
+sudo smartctl --all /dev/nvme0n1
+man tlp
+man tlp
+PWD
+$PWD
+/home/djinnalexio
+cat /etc/bash.bashrc 
+sudo nano /etc/bash.bashrc 
 exit
-#1596908575
-yay -Syu
-#1596908583
-yay -Syu -y
-#1596908810
-history
-#1596908827
-history
-#1596908867
-cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596908873
-code
-#1596908994
-cd .config/
-#1596909007
-ls -aF
-#1596909011
-ls -a
-#1596909016
-ls -aF
-#1596909027
-ls -al
-#1596909057
-cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596909066
-ls -al | grep plasma
-#1596909603
-cd .config/
-#1596909705
-mv plasmarc ../Projects/ComparePlasma/
-#1596909721
-mv plasmashellrc ../Projects/ComparePlasma/
-#1596909731
-mv plasma-org.kde.plasma.desktop-appletsrc ../Projects/ComparePlasma/
-#1596909764
-yay spotify
-#1596909824
-reboot
-#1596910020
-code
-#1596910048
-cp ~/.config/plasma-org.kde.plasma.desktop-appletsrc ./plasma.txt 
-#1596926972
-yay 
-#1596927016
-yay -R spotify
-#1596927086
-yay -S spotify-dev
-#1596927201
-spotify
-#1596927303
-yay spotify
-#1596927714
-yay -Syu
-#1596927928
-yay -Syuu
-#1596927985
-which reflector
-#1596928010
-cat /etc/pacman.d/mirrorlist
-#1596928207
-reflector -c US --sort rate --save /etc/pacman.d/mirrorlist
-#1596928226
-sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist
-#1596928093
-man reflector
-#1596928272
-cat /etc/pacman.d/mirrorlist
-#1596928291
-yay -Syu
-#1596929376
-neofetch
-#1596929393
-free -m
-#1596929534
-ksysguard
-#1596929619
-history | yay
-#1596929627
-history | grep yay
-#1596929637
-bashtop
-#1596934653
-yay -S quota
-#1596934661
-yay quota
-#1596935524
-cp .config/plasmarc Projects/ComparePlasma/
-#1596935536
-cp .config/plasmashellrc Projects/ComparePlasma/
-#1596935558
-cp .config/plasma-org.kde.plasma.desktop-appletsrc Projects/ComparePlasma/plasma.txt 
-#1596978896
-yay easy2boot
-#1596978966
-yay easy2boot
-#1596978990
-yay multiboot
-#1596979277
-yay e2b
-#1596979683
+#1597200150
+su
+#1597200216
+sudo nano /etc/bash.bashrc 
+#1597200331
+su
+#1597200363
 exit
-#1596979756
-wine Projects/e2b/Make_E2B.exe 
-#1596979772
-wine Projects/e2b/Make_E2B.exe 
-#1596979778
-yay wine
-#1596983681
-yay multiboot
-#1596984104
-yay multiboot
-#1596984127
-yay -R multibootusb
-#1596984157
-rm Downloads/OS\ Images/
-#1596984162
-rm Downloads/OS\ Images/*
-#1596984174
-rmdir Downloads/OS\ Images/
-#1596984188
-rm -p  Projects/YUMI/
-#1596984196
-rm -f  Projects/YUMI/
-#1596984213
-rmdir -p Projects/YUMI/
-#1596984220
-rmdir -f Projects/YUMI/
-#1596984227
-rmdir 
-#1596984231
-rmdir --help
-#1596984301
-yay Syu
-#1596984310
+#1597200598
+history
+#1597202129
 yay -Syu
-#1596984432
-yay -Syuu
-#1596984572
-yay -Syuu
-#1596984581
-reboot
-#1596985605
-cp .config/plasmarc Projects/ComparePlasma/
-#1596985611
-cp .config/plasmashellrc Projects/ComparePlasma/
-#1596985626
-cp .config/plasma-org.kde.plasma.desktop-appletsrc Projects/ComparePlasma/plasma.txt 
-#1596985628
-code
-#1597012626
-wr
-#1597012641
-wrs
-#1597021803
+#1597202566
+glxdemo
+#1597202584
+glxdemo -info
+#1597202596
+glxgears -info
+#1597233477
+yay chrome
+#1597233984
+yay libreoffice
+#1597234011
+yay libreoffice | grep installed
+#1597234021
+yay libreoffice | grep Installed
+#1597234701
+yay sublime-text
+#1597235201
+yay zoom
+#1597236745
+yay -Syyuu
+#1597236812
+yay -S code
+#1597233102
 yay -Qu
-#1597021806
+#1597233107
 yay -Q
-#1597021944
-yay -Q >> text.txt
-#1597021951
-cat text.txt 
-#1597022400
-mv text.txt Projects/ComparePlasma/installedPackages.txt
-#1597022419
-vim
-#1597022427
-yay -S vim
-#1597022465
-vim
+#1597235752
+yay -S lib32-nvidia-utils
+#1597235834
+yay vs code
+#1597235901
+yay vscode
+#1597236315
+ysy -Syu
+#1597236320
+yay -Syu
+#1597236338
+history
+#1597236374
+yay vscode
+#1597236593
+ls /var/cache/pacman/pkg/
+#1597236616
+ls /var/cache/pacman/pkg/ | grep .part
+#1597236634
+ls /var/cache/pacman/pkg/ | grep *.part
+#1597236855
+yay -Q
+#1597236886
+yay -Q >> Downloads/check/installed.txt
+#1597236896
+less Downloads/check/installed.txt
+#1597237310
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+#1597237583
+neofetch
+#1597232732
+yay blender
+#1597235264
+yay -S bashtop cmatrix cup exfat-utils f2fs-tools flatpak flatpak-builder google-chrome gparted jstest-gtk-git libreoffice-fresh lshw ruby spotify-dev steam tree zoom 
+#1597235558
+yay -S bashtop cmatrix cup exfat-utils f2fs-tools flatpak flatpak-builder google-chrome gparted jstest-gtk-git libreoffice-fresh lshw ruby spotify-dev steam tree zoom --needed
+#1597235662
+yay -S cups google-chrome jstest-gtk-git zoom --needed
+#1597235776
+cd Downloads/
+#1597235782
+git init check
+#1597235791
+cd check/
+#1597235806
+nano installed
+#1597236847
+ls
+#1597237639
+neofetch
+#1597237670
+bashtop
+#1597237730
+yay code
+#1597237745
+yay -S code
+#1597237830
+history
+#1597237863
+cd Downloads/check/
+#1597237869
+git add --all
+#1597237876
+git commit --all
+#1597237996
+git config --global user.email "pakueamb@gmail.com"
+#1597238057
+git config --global user.name "Philippe-André Akue"
+#1597238062
+git commit --all
+#1597238079
+git status
+#1597238112
+yay nano
+#1597238185
+git config --global core.editor "nano"
+#1597238195
+which code
+#1597238248
+git commit --all
+#1597238396
+yay -Q
+#1597238540
+yay -Q >> Downloads/check/installed.txt 
+#1597238975
+yay joy-utils
+#1597238980
+yay joyutils
+#1597239135
+yay -S ntfs-3g
+#1597239164
+yay osinfo-db
+#1597239287
+yay -S spotify lutris
+#1597239440
+yay -S bluez-utils
+#1597239479
+yay cups-pk-helper
+#1597239502
+yay discord
+#1597239570
+yay discover
+#1597239645
+yay fuse3
+#1597239915
+yay -S lutris --needed
+#1597239941
+yay malcontent
+#1597239962
+yay mathjax2
+#1597239977
+yay meson
+#1597240045
+yay -S kite meson
+#1597240078
+/opt/kite/kite-installer install
+#1597241392
+exit
+#1597240116
+yay mtpfs
+#1597240126
+yay mutter
+#1597240237
+yay orca
+#1597240272
+yay p7zip
+#1597240324
+yay potrace
+#1597240371
+yay qemu
+#1597240404
+yay quota-tools
+#1597240439
+yay rygel
+#1597240461
+yay seabois
+#1597240466
+yay seabios
+#1597240497
+yay simplescan
+#1597240504
+yay simple-scan
+#1597240525
+yay -S cups --needed
+#1597240541
+yay -S spyder --needed
+#1597240601
+yay spotify
+#1597240856
+yay sysprof
+#1597240873
+yay tlc
+#1597240887
+yay tali
+#1597240936
+yay udftoolf
+#1597240939
+yay udftools
+#1597240961
+yay unrar
+#1597240983
+yay clam
+#1597241021
+yay usbredir
+#1597241059
+yay virtualbox-host-modules-arch
+#1597241120
+yay vulcan-intel
+#1597241128
+yay vulkan-intel
+#1597241147
+yay vulkan
+#1597241192
+yay wget
+#1597241205
+yay whois
+#1597241284
+yay zip
+#1597241419
+cat Downloads/check/
+#1597241424
+cat Downloads/check/installed.txt 
+#1597241431
+cat Downloads/check/reference.txt 
+#1597241477
+yay -S code discord lutris spotify-dev spyder
+#1597242034
+firefox
+#1597242114
+history | grep kite
+#1597242334
+yay pycharm
+#1597242850
+yay atom
+#1597243276
+ls
+#1597243305
+cp Downloads/check/reference.txt DifficultToInstall.txt
+#1597243327
+rm Downloads/check/ -f
+#1597243333
+rm Downloads/check/ -fR
+#1597243342
+cat DifficultToInstall.txt 
+#1597243370
+nano DifficultToInstall.txt 
+#1597243498
+neofetch
+#1597243519
+yay -Syyuu
+#1597243542
+reboot
+#1597243467
+glxgears -info
+#1597244382
+sudo atom 
+#1597244411
+sudo atom --no-sandbox
+#1597245129
+yay bbswitch
+#1597245207
+man bbswitch
+#1597245212
+bbswithc
+#1597245215
+bbswitch
+#1597245288
+cp /etc/optimus-manager/optimus-manager.conf opti.conf
+#1597245292
+nano opti.conf 
+#1597245432
+glxgears
+#1597245438
+glxgears -info
+#1597245458
+cat opti.conf 
+#1597245475
+systemctl bbswitch
+#1597245685
+nano opti.conf 
+#1597245762
+glxgears -info
+#1597245842
+rm opti.conf 
+#1597245911
+sudo gtk-lshw
+#1597246248
+mv DifficultToInstall.txt ~/ToInstall.txt
+#1597246272
+mv ToInstall.txt ~/Install.txt
+#1597246285
+cat Install.txt 
+#1597246305
+yay code discord lutris spotify-dev spyder
+#1597246314
+yay -S code discord lutris spotify-dev spyder
+#1597246445
+yay -S clamav
+#1597246561
+sudo systemctl enable clamd
+#1597246608
+man clamav
+#1597246617
+clamav
+#1597246648
+clamscan
+#1597246668
+sudo clamscan
+#1597246675
+yay clamd
+#1597246703
+clamd
+#1597246711
+sudo clamd
+#1597246755
+freshclam
+#1597246768
+killall freshclam
+#1597246783
+/etc/init.d/clamd start
+#1597246851
+yay -R clamav
+#1597246875
+yay -R clamav libmspack
+#1597247152
+yay -Syyy
+#1597247160
+yay -Syuu
+#1597247173
+ay -S code discord lutris spotify-dev spyder
+#1597247184
+yay -S code discord lutris spotify-dev spyder
+#1597247321
+sudo pacman -S archlinux-keyring
+#1597247339
+yay -Syyyuu
+#1597247346
+yay -S code discord lutris spotify-dev spyder
+#1597247392
+yay -S code discord lutris spotify-dev spyder --needed
+#1597247418
+yay -S spotify
+#1597247566
+yay -Syu
+#1597247617
+pacman-key --refresh-keys
+#1597247622
+sudo pacman-key --refresh-keys
+#1597247647
+yay -S spotify-dev
+#1597247795
+code
+#1597248350
+yay -S spotify-dev
+#1597248492
+gpg --recv-keys
+#1597248497
+yay -S spotify-dev
+#1597248518
+gpg --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
+#1597248574
+gpg --keyserver pool.sks-keyservers.net --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
+#1597248715
+yay -S spotify-dev
+#1597249054
+spotify
+#1597248769
+cat /etc/pacman.d/gnupg/gpg.conf 
+#1597248805
+cat ~/gnupg/gpg.conf 
+#1597248815
+cat ~/.gnupg/gpg.conf 
+#1597248864
+cp -p /etc/pacman.d/gnupg/gpg.conf ~/.gnupg/gpg.conf
+#1597248878
+nano  ~/.gnupg/gpg.conf
+#1597250972
+yay gnome-disks
+#1597251105
+lsblk
+#1597251139
+mkdir -p /mnt/Windows10
+#1597251142
+sudo mkdir -p /mnt/Windows10
+#1597251206
+mount /dev/nvme0n1p4 /mnt/Windows10/
+#1597251211
+sudo mount /dev/nvme0n1p4 /mnt/Windows10/
+#1597251295
+umount /run/media/djinnalexio/Toshiba
+#1597251314
+lsblk
+#1597251317
+umount /run/media/djinnalexio/Toshiba
+#1597251324
+umount /run/media/djinnalexio/Toshiba -f
+#1597251328
+sudo umount /run/media/djinnalexio/Toshiba -f
+#1597251335
+lsblk
+#1597251396
+mkdir /mnt/DjinnWarehouse
+#1597251400
+sudo mkdir /mnt/DjinnWarehouse
+#1597251497
+sudo mount -0 subvol=/@ /dev/sda1 /mnt/DjinnWarehouse/
+#1597251506
+sudo mount -o subvol=/@ /dev/sda1 /mnt/DjinnWarehouse/
+#1597251742
+genfstab
+#1597251775
+cat /etc/fstab
+#1597251786
+code /etc/fstab
+#1597251794
+sudo code /etc/fstab
+#1597251993
+cat /proc/mounts
+#1597252016
+mount
+#1597252348
+cp /etc/fstab fstab
+#1597252402
+sudo cp fstab /etc/fstab 
+#1597252865
+mount
+#1597253126
+sudo nano /etc/fstab 
+#1597253460
+glxgears
+#1597253474
+glxgears
+#1597253570
+sudo nano /etc/fstab 
+#1597253587
+sudo code /etc/fstab 
+#1597253640
+history
+#1597259357
+sudo dolphin
+#1597259436
+rm /mnt/DjinnWarehouse/
+#1597259450
+sudo rmdir /mnt/DjinnWarehouse/
+#1597259511
+sudo cp /run/media/djinnalexio/Toshiba/@/Pictures/* /usr/share/wallpapers/
+#1597259576
+ls /run/media/djinnalexio/Toshiba/@/Pictures/
+#1597259591
+ls /run/media/djinnalexio/Toshiba/@/Pictures/Wallpapers/
+#1597259613
+sudo cp /run/media/djinnalexio/Toshiba/@/Pictures/Wallpapers/* /usr/share/wallpapers/
+#1597259839
+sudo rm -R /usr/share/wallpapers/Elarun/
+#1597259891
+sudo rm -R /usr/share/wallpapers/FlyingKonqui/
+#1597259942
+sudo rm -R /usr/share/wallpapers/Kokkini/
+#1597265187
+exit
+#1597265194
+sdeefewe
+#1597265261
+terminator
+#1597265269
+cmatrix
+#1597264669
+free -m
+#1597265426
+ls
+#1597265432
+cat Install.txt 
+#1597265438
+rm fstab Install.txt 
+#1597265440
+ls
+#1597266951
+$HOSTNAME
+#1597266963
+$LOCALHOST
+#1597266974
+cat /etc/hostname
+#1597266977
+cat /etc/hosts
+#1597267069
+systemctl status cups
+#1597267077
+systemctl status cup
+#1597267136
+service cups
+#1597267145
+sudo systemctl status cups
+#1597267158
+yay -S cups
+#1597267168
+cups
+#1597271048
+mv Desktop/UnityHub.desktop .local/share/applications/
+#1597274150
+yay -Syu
+#1597275581
+yay -R google-chrome-beta 
+#1597275596
+yay -S google-chrome
+#1597275673
+yay -Q | grep cups
+#1597275686
+sudo systemctl enable cups
+#1597275796
+sudo systemctl enable cupsd
+#1597275814
+sudo systemctl 
+#1597275879
+sudo systemctl list-unit-files
+#1597275907
+sudo systemctl list-unit-files | grep cup
+#1597275950
+sudo systemctl status cups-browsed
+#1597275991
+sudo systemctl status org.cups.cupsd
+#1597276041
+sudo systemctl enable org.cups.cupsd
+#1597276050
+sudo systemctl start org.cups.cupsd
+#1597276183
+exit
+#1597276994
+yay -S translate-shell
+#1597279281
+cp Unity/Unity\ Editors/2020.1.2f1/Editor/Data/Resources/UnityPlayerIcon.png Unity/
+#1597279307
+touch Unity/UnityPlayerIcon.png 
+#1597281496
+yay -Q | grep keras
+#1597281502
+yay -Q | grep tensorflow
+#1597281732
+yay wine
+#1597282033
+yay -Syu
+#1597282065
+yay -S dotnet-runtime dotnet-sdk mono mono-develop mono-tools
+#1597282136
+yay -S dotnet-runtime dotnet-sdk mono monodevelop mono-tools --needed
+#1597282598
+yay -Q | grep blue
+#1597282611
+systemctl status bluez
+#1597282665
+history
+#1597282693
+sudo systemctl list-unit-files | grep blue
+#1597282716
+sudo systemctl enable bluetooth
+#1597282736
+sudo systemctl start bluetooth
+#1597279139
+code .local/share/applications/UnityHub.desktop 
+#1597283851
+yay -S dotnet-runtime dotnet-sdk mono monodevelop mono-tools --needed
+#1597283880
+yay -R monodevelop
+#1597283892
+yay -S monodevelop-beta
+#1597285159
+which code
+#1597285671
+yay -Syu
+#1597285686
+poweroff
+#1597321293
+man bluez-utils
+#1597321306
+man bluetoothctl
+#1597321726
+yay pulseaudio
+#1597321820
+sudo nano /etc/pulse/default.pa 
+#1597321908
+reboot
+#1597320820
+yay bluetooth
+#1597320905
+man bluetooth
+#1597320918
+man bluetoothd
+#1597320951
+bluetooth
+#1597321202
+lsmod | grep b
+#1597321249
+bluetoothctl
+#1597322136
+exit
+#1597323377
+yay -Syu
+#1597323443
+exit
+#1597332011
+git
+#1597332045
+ls -ha
+#1597332110
+ls -al .ssh
+#1597332155
+ssh-keygen -t rsa -b 4096 -C "pakueamb@gmail.com"
+#1597332325
+eval "$(ssh-agent -s)"
+#1597332334
+ssh-add ~/.ssh/id_rsa
+#1597332388
+less .ssh/id_rsa.pub 
+#1597332461
+cd Projects/
+#1597332462
+ls
+#1597332532
+git clone git@github.com:pakueamb/DeepLearningAZcourse.git
+#1597332609
+ls
+#1597333411
+git clone git@github.com:pakueamb/win10script.git
+#1597333422
+code win10script/
+#1597347075
+yay -Syu
+#1597347411
+exit
+#1597350392
+cd Projects/
+#1597350402
+git clone git@github.com:pakueamb/My-New-Setup-Steps.git
+#1597350457
+cd Projects/
+#1597350484
+cp win10script/win10debloat.ps1 My-New-Setup-Steps/
