@@ -1,7 +1,11 @@
-starts after reboot out of the key
+#
+#
+#
+
+#starts after reboot out of the key
 
 nmtui
-sudo nano /etc/pacman.conf (uncomment multilib repositories)
+sudo nano /etc/pacman.conf #uncomment multilib repositories
 sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist 
 sudo pacman -Syyyuu
 systemctl enable cronie
