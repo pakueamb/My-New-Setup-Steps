@@ -70,8 +70,8 @@ $tweaks = @(
 	"DisableNetDevicesAutoInst",  # "EnableNetDevicesAutoInst",
 	"DisableCtrldFolderAccess",	# "EnableCtrldFolderAccess",
 	# "DisableFirewall",            # "EnableFirewall",
-	"EnableDefender",
-	"EnableDefenderCloud",
+	"DisableDefender",            # "EnableDefender",
+	"DisableDefenderCloud",       # "EnableDefenderCloud",
 	"EnableF8BootMenu",             # "DisableF8BootMenu",
 	#"SetDEPOptOut",                 # "SetDEPOptIn",
 	# "EnableCIMemoryIntegrity",    # "DisableCIMemoryIntegrity",
@@ -80,8 +80,8 @@ $tweaks = @(
 	"DisableMeltdownCompatFlag", # "EnableMeltdownCompatFlag"    
 
 	### Service Tweaks ###
-	"EnableUpdateMSRT",
-	"EnableUpdateDriver",
+	"DisableUpdateMSRT",          # "EnableUpdateMSRT",
+	"DisableUpdateDriver",        # "EnableUpdateDriver",
 	"DisableUpdateRestart",         # "EnableUpdateRestart",
 	"DisableHomeGroups",          # "EnableHomeGroups",
 	"DisableSharedExperiences",     # "EnableSharedExperiences",
@@ -100,7 +100,7 @@ $tweaks = @(
 	# "DisableFastStartup",         # "EnableFastStartup",
 
 	### UI Tweaks ###
-	#"DisableActionCenter",          # "EnableActionCenter",
+	"DisableActionCenter",          # "EnableActionCenter",
 	#"DisableLockScreen",            # "EnableLockScreen",
 	#"DisableLockScreenRS1",       # "EnableLockScreenRS1",
 	# "HideNetworkFromLockScreen",    # "ShowNetworkOnLockScreen",
@@ -178,8 +178,8 @@ $tweaks = @(
 	# "EnableAudio",                # "DisableAudio",
 
 	### Unpinning ###
-	"UnpinStartMenuTiles",
-	"UnpinTaskbarIcons",
+	#"UnpinStartMenuTiles",
+	#"UnpinTaskbarIcons",
 
 	### Auxiliary Functions ###
 	"WaitForKey"
