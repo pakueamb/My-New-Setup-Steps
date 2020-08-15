@@ -1,8 +1,3 @@
-#
-#bash
-#
-
-
 nmtui
 sudo nano /etc/pacman.conf #uncomment multilib repository
 sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist 
@@ -720,3 +715,19 @@ git clone git@github.com:pakueamb/My-New-Setup-Steps.git
 cd Projects/
 #1597350484
 cp win10script/win10debloat.ps1 My-New-Setup-Steps/
+#1597350568
+yay -S vim
+#1597350617
+cp .bash_history Projects/My-New-Setup-Steps/.bash_history 
+#1597351183
+su
+#1597351206
+exit
+#1597371454
+bluetoothctl
+#1597373166
+yay -Syu
+#1597373259
+ls /var/cache/pacman/pkg/
+#1597373560
+yay -Scc
