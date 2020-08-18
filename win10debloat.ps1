@@ -2556,7 +2556,7 @@ Function DebloatAll {
         "*Flipboard*"
         "*Twitter*"
         "*Facebook*"
-        "*Spotify*"
+        #"*Spotify*"
         "*Royal Revolt*"
         "*Sway*"
         "*Speed Test*"

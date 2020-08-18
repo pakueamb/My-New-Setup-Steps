@@ -7,8 +7,6 @@
 
 #Setting aliases: shorts for commands
 alias ls='ls --color=auto'
-alias wr='wallpaper-reddit'
-alias wrs='wallpaper-reddit --save'
 
 PS1='[\u@\h \W]\$ '
 
