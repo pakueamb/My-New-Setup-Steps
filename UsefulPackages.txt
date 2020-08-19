@@ -1,0 +1,88 @@
+###############################
+# ARCH PACKAGES               #
+###############################
+
+timeshift #for snapshot controls
+firefox #web browser
+terminator #command line application
+man-db man-pages text-info #manual and help utilities
+btrfs-progs exfat-utils f2fs-tools ntfs-3g xfsprogs #filesystem utilities
+tlp && sudo systemctl enable tlp #power management for laptops
+bash-completion lsb-release #bash completion
+lsb-release #displaying Linux Standard Base
+smartmontools #drivers for S.M.A.R.T. drives technology
+libreoffice-fresh #office suite
+code #Visual Code editor
+cmatrix neofetch #visual tools
+flatpak flatpak-builder #flatpak support
+gparted #drive utility
+cups #printing utility
+simple-scan #scanning utility
+tree #directory display
+bashtop #command line system monitor
+lshw #hardware listing
+kite #text editor auto-completion
+steam #game library, launcher, and utilities
+lutris #game library, launcher, and utilities
+spotify-dev #music service
+mtpfs # Media Transfer Protocol devices (Android)
+jstest-gtk-git joyutils #joystick display tool
+unrar zip unzip p7zip #compress utilities
+osinfo-db #information about OSes
+virtualbox virtualbox-host-modules-arch #for virtual machines
+bluez-utils #bluetoth utilities (daemon is called bluetoothd)
+vulkan-intel vulkan-tools vulkan-icd-loader #vulkan utilities
+lib32-vulkan-intel lib32-nvidia-utils lib32-vulkan-icd-loader
+wine wine-gecko wine-mono winetricks #for windows games
+dotnet-runtime dotnet-sdk mono mono-develop mono-tools
+#Windows Core and Framework needed to work with solutions and Intellisense
+vim #text editor
+nvme-cli #nvme drive tools
+unity #game engine
+
+
+###############################
+# WINDOWS APPLICATIONS        #
+###############################
+
+adobe creative cloud
+photoshop
+droidcam
+epic games
+huion tablet driver
+firefox
+trustmaster 3-in-1 driver
+wallpaper-reddit
+
+
+###############################
+# GNOME EXTENSIONS            #
+###############################
+
+start menu
+control blur on lock screen
+custom hot corner
+dash to dock
+internet speed
+ip finder
+lock keys
+multi-monitor add-on
+openweather
+panel scroll
+sound in put and output chooser
+system monitor
+transparent window moving
+user themes
+
+
+###############################
+# PLASMA CUSTOMIZATION        #
+###############################
+
+plasma style: oxygen
+app style : oxygen
+decoration: pearlDarkBlur
+color : carl
+icons: sensual-breeze-dark
+cursor : darkBolt-cursor
+splash screen: Magenta, sensual-dark-global
