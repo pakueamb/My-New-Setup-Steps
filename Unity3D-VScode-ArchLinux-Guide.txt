@@ -29,3 +29,5 @@ sudo echo "FrameworkPathOverride=/lib/mono/4.7.1-api/" >> /etc/environment
   - From there, open the C# project. It should launch vscode
   - you should not see any errors
   - All Unity keyworks should now be autocompleted and references of variables should be accurate 
+
+11. If Omnisharp is still showing errors when opening vscode, go back in 'External tools' and regenerate the assembly files'.
