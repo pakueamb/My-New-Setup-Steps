@@ -1,3 +1,5 @@
+I managed to make it work and do my Unity development on Linux, but right now, I can only build for Linux, Windows, and Mac OS platforms.
+
 1.  Install Unity Hub through the official website
 
 2.  Install Vscode with your package manager
