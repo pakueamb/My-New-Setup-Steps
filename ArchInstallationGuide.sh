@@ -224,6 +224,16 @@ systemctl enable sddm
 
 #Desktop environment
 yay -S plasma kde-applications xdg-user-dirs
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#If you want the XFCE desktop environment
+
+#Display manager
+yay -S lightdm lightdm-gtk-greeter
+systemctl enable lightdm
+
+#Desktop environment
+yay -S xfce4 xfce4-goodies
 #####################################################
 
 ########################################
