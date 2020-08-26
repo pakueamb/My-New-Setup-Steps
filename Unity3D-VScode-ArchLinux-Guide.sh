@@ -11,6 +11,7 @@ configure your editor's path, and install the latest editor.
 5.  Close Unity and open VScode.
 
 6.  Install the extensions useful for C# and Unity (solution explorer, extentions, snippets, debugger, etc.)
+    close when you're done.
 
 7.  Install .Net with your package manager.
   pacman -S dotnet-host dotnet-runtime dotnet-sdk dotnet-targeting-pack
