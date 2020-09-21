@@ -1,9 +1,11 @@
+# Arch Linux + Unity3D + Visual Studio code | Guide
+
 I managed to make it work and do my Unity development on Linux, but right now, I can only build for Linux platforms.
 
 1. Install UnityHub, Visual Studio Code, .Net, mono and other complementary packages  
 `sudo pacman unityhub code dotnet-sdk mono mono-tools mono-msbuild mono-msbuild-sdkresolver mono-addins`
 
-1. Force programs to use mono frameworks  
+2. Force programs to use mono frameworks  
 `sudo echo "FrameworkPathOverride=/lib/mono/4.7.1-api/" >> /etc/environment`
 
 3. Open VScode and configure as needed.
