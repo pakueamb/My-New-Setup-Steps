@@ -3,12 +3,9 @@ This is for pressure curves and button mapping.
 
 # Installation
 
-1. Install this AUR package: `digimend-kernel-drivers-dkms-git`
+1. Install these packages: `sudo pacman -S digimend-kernel-drivers-dkms-git dkms xf86-input-wacom kcm-wacomtablet`
 
-2. Install other packages  
-`sudo pacman -S dkms xf86-input-wacom kcm-wacomtablet`
-
-3. Create the file to use the driver with the tablet:  
+2. Create the file to use the driver with the tablet:  
 `sudo nano /etc/X11/xorg.conf.d/30-tablet.conf`
 ```
 Section "InputClass"  
@@ -18,10 +15,10 @@ Section "InputClass"
     Driver "wacom"  
 EndSection
 ```
-4. Restart your session  
+3. Restart your session  
    `sudo systemctl restart sddm`
 
-5. Go general settings > input devices and you should see the option for tablets. Manually register the tablet and close the settings window.
+4. Go general settings > input devices and you should see the option for tablets. Manually register the tablet and close the settings window.
 
 # Customization & Mapping
 
