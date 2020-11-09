@@ -91,15 +91,6 @@ arch-chroot /mnt
 
 #From this point, you are now a super user in your machine
 
-#enable history parameters
-nano /etc/bash.bashrc
->#Bash history settings
->HISTFILESIZE=-1
->HISTSIZE=-1
->HISTTIMEFORMAT="%F %T "
->HISTFILE=
->HISTCONTROL=ignorespace
-
 #Set up your Localization
 ln -sf /usr/share/zoneinfo/{Country}/{Region/Timezone} /etc/localtime
 
@@ -129,6 +120,9 @@ passwd
 pacman -S grub efibootmgr networkmanager network-manager-applet wireless_tools\
  wpa_supplicant dialog os-prober mtools dosfstools base-devel linux-headers\
  reflector cron --needed
+
+#Install microcodes
+pacman -S intel-ucode # or 'amd-ucode' for AMD CPUs
 
 #Install Grub and output configuration file
 grub-install --target=x86_64-efi --efi-directory=/boot/EFI --bootloader-id=GRUB
@@ -162,7 +156,6 @@ nano .bashrc
 >HISTFILESIZE=-1
 >HISTSIZE=-1
 >HISTTIMEFORMAT="%F %T "
->HISTFILE=
 >HISTCONTROL=ignorespace
 
 
