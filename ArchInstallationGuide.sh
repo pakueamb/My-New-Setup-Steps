@@ -240,3 +240,9 @@ glxgears -info
 #tools for virtual machine
 elfutils-libelf-devel #fedora virtual machine
 virtualbox-guest-utils #arch virtual machine
+#########################################
+
+
+# Remove orphans
+sudo pacman -Rns $(pacman -Qtdq)
+
