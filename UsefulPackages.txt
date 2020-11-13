@@ -41,6 +41,7 @@ nvme-cli #nvme drive tools
 unity #game engine
 #Install microcodes 
 intel-ucode # or 'amd-ucode' for AMD CPUs
+color-kde # color correction tools
 
 
 
