@@ -2,6 +2,9 @@
 # ARCH PACKAGES               #
 ###############################
 
+#Long-term support kernel
+linux-lts
+linux-lts-headers
 timeshift #for snapshot controls
 firefox #web browser
 terminator #command line application
@@ -39,10 +42,12 @@ dotnet-runtime dotnet-sdk mono mono-develop mono-tools
 vim #text editor
 nvme-cli #nvme drive tools
 unity #game engine
+color-kde # color correction tools
+powerpill # to improve pacman performance
+
 #Install microcodes 
 intel-ucode # or 'amd-ucode' for AMD CPUs
-color-kde # color correction tools
-
+sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 
 ###############################
