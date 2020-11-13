@@ -39,6 +39,9 @@ dotnet-runtime dotnet-sdk mono mono-develop mono-tools
 vim #text editor
 nvme-cli #nvme drive tools
 unity #game engine
+#Install microcodes 
+intel-ucode # or 'amd-ucode' for AMD CPUs
+
 
 
 ###############################
