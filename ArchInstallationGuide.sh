@@ -121,9 +121,6 @@ pacman -S grub efibootmgr networkmanager network-manager-applet wireless_tools\
  wpa_supplicant dialog os-prober mtools dosfstools base-devel linux-headers\
  reflector cron --needed
 
-#Install microcodes
-pacman -S intel-ucode # or 'amd-ucode' for AMD CPUs
-
 #Install Grub and output configuration file
 grub-install --target=x86_64-efi --efi-directory=/boot/EFI --bootloader-id=GRUB
 grub-mkconfig -o /boot/grub/grub.cfg
