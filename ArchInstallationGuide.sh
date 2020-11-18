@@ -246,3 +246,132 @@ virtualbox-guest-utils #arch virtual machine
 # Remove orphans
 sudo pacman -Rns $(pacman -Qtdq)
 
+
+##########################################
+# Condensed commands
+##########################################
+
+iwctl
+    >station wlan0 connect {network SSID}
+    >exit
+
+timedatectl set-ntp true
+
+fdisk /dev/nvme0n1 # 500MG for EFI and 100GB for Main
+
+mkfs.fat -F32 /dev/nvme0n1p1
+
+mkfs.btrfs /dev/nvme0n1p2 -L {DISK NAME}
+
+mount /dev/nvme0n1p2 /mnt
+
+btrfs su cr /mnt/@
+
+umount /mnt
+
+mount -o compress=lzo,subvol=@ /dev/nvme0n1p2 /mnt
+
+mkdir -p /mnt/boot/EFI
+
+mount /dev/nvme0n1p1 /mnt/boot/EFI
+
+reflector -c US --sort rate --save /etc/pacman.d/mirrorlist
+
+pacman -Syyy
+
+pacstrap /mnt base linux-lts linux-firmware nano git git-lfs --needed
+
+genfstab -U /mnt >> /mnt/etc/fstab
+
+arch-chroot /mnt
+
+nano .bashrc
+>HISTFILESIZE=-1
+>HISTSIZE=-1
+>HISTTIMEFORMAT="%F %T "
+>HISTCONTROL=ignorespace
+
+git-lfs install
+
+ln -sf /usr/share/zoneinfo/America/New York /etc/localtime
+
+hwclock --systohc
+
+nano /etc/locale.gen
+locale-gen
+
+echo "LANG=en_US.UTF-8" >> /etc/locale.conf
+
+echo "DJINNHQ" >> /etc/hostname
+nano /etc/hosts
+>127.0.0.1  localhost
+>::1        localhost
+>127.0.1.1  DJINNHQ.localdomain DJINNHQ
+
+passwd
+
+pacman -S linux linux-lts linux-headers linux-lts-headers grub efibootmgr \
+networkmanager network-manager-applet wireless_tools wpa_supplicant dialog \
+os-prober mtools dosfstools base base-devel reflector --needed
+
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+cd ~
+rm yay/ -Rf
+
+grub-install --target=x86_64-efi --efi-directory=/boot/EFI --bootloader-id=GRUB
+grub-mkconfig -o /boot/grub/grub.cfg
+
+systemctl enable NetworkManager
+
+useradd -mG wheel {username}
+
+passwd {username}
+
+EDITOR=nano visudo 
+
+exit
+umount -a
+reboot
+
+nano .bashrc
+>HISTFILESIZE=-1
+>HISTSIZE=-1
+>HISTTIMEFORMAT="%F %T "
+>HISTCONTROL=ignorespace
+
+nmtui
+
+sudo nano /etc/pacman.conf #uncomment multilib repositories
+
+sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist
+
+yay reflector cron intel-ucode \
+grub-customizer cmatrix neofetch lshw steam lutris  unrar zip unzip p7zip \
+osinfo-db virtualbox virtualbox-host-modules-arch bluez-utils vim nvme-cli \
+color-kde firefox nautilus tlp ufw xf86-video-intel virtualbox-guest-utils \
+vulkan-intel vulkan-icd-loader vulkan-tools lib32-vulkan-intel wine wine-gecko \
+wine-mono winetricks dotnet-runtime dotnet-sdk mono mono-tools krunner kdeconnect \
+dkms xf86-input-wacom kcm-wacomtablet kite spotify-dev monodevelop xorg sddm\
+digimend-kernel-drivers-dkms-git plasma xdg-user-dirs btrfs-progs exfat-utils \
+f2fs-tools ntfs-3g xfsprogs terminator edex-ui man-db man-pages bash-completion \
+lsb-release smartmontools code gparted cups simple-scan tree bashtop vim --needed
+
+systemctl enable cronie
+
+systemctl enable tlp
+
+systemctl enable ufw
+
+systemctl enable sddm
+
+plasma kde-applications 
+
+sudo pacman -Rns $(pacman -Qtdq)
+
+
+
+
+
+
