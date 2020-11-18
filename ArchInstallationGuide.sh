@@ -312,7 +312,7 @@ passwd
 
 pacman -S linux linux-lts linux-headers linux-lts-headers grub efibootmgr \
 networkmanager network-manager-applet wireless_tools wpa_supplicant dialog \
-os-prober mtools dosfstools base base-devel reflector --needed
+os-prober mtools dosfstools base base-devel reflector intel-ucode--needed
 
 git clone https://aur.archlinux.org/yay.git
 cd yay
@@ -347,12 +347,11 @@ sudo nano /etc/pacman.conf #uncomment multilib repositories
 
 sudo reflector -c US --sort rate --save /etc/pacman.d/mirrorlist
 
-yay reflector cron intel-ucode \
-grub-customizer cmatrix neofetch lshw steam lutris  unrar zip unzip p7zip \
-osinfo-db virtualbox virtualbox-host-modules-arch bluez-utils vim nvme-cli \
+yay -S grub-customizer cmatrix neofetch lshw steam lutris  unrar zip unzip p7zip \
+cron osinfo-db virtualbox virtualbox-host-modules-arch bluez-utils vim nvme-cli \
 color-kde firefox nautilus tlp ufw xf86-video-intel virtualbox-guest-utils \
 vulkan-intel vulkan-icd-loader vulkan-tools lib32-vulkan-intel wine wine-gecko \
-wine-mono winetricks dotnet-runtime dotnet-sdk mono mono-tools krunner kdeconnect \
+wine-mono winetricks dotnet-runtime dotnet-sdk mono mono-tools \
 dkms xf86-input-wacom kcm-wacomtablet kite spotify-dev monodevelop xorg sddm\
 digimend-kernel-drivers-dkms-git plasma xdg-user-dirs btrfs-progs exfat-utils \
 f2fs-tools ntfs-3g xfsprogs terminator edex-ui man-db man-pages bash-completion \
@@ -366,9 +365,15 @@ systemctl enable ufw
 
 systemctl enable sddm
 
-plasma kde-applications 
+ sudo nano /etc/modprobe.d/blacklist.conf
+>blacklist nouveau
+>blacklist rivafb
+>blacklist nvidiafb
+>blacklist rivatv
+>blacklist nv 
 
 sudo pacman -Rns $(pacman -Qtdq)
+
 
 
 
