@@ -351,7 +351,7 @@ yay -S grub-customizer cmatrix neofetch lshw steam lutris  unrar zip unzip p7zip
 cron osinfo-db virtualbox virtualbox-host-modules-arch bluez-utils vim nvme-cli \
 color-kde firefox nautilus tlp ufw xf86-video-intel virtualbox-guest-utils \
 vulkan-intel vulkan-icd-loader vulkan-tools lib32-vulkan-intel wine wine-gecko \
-wine-mono winetricks dotnet-runtime dotnet-sdk mono mono-tools \
+wine-mono winetricks dotnet-runtime dotnet-sdk mono mono-tools timeshift \
 dkms xf86-input-wacom kcm-wacomtablet kite spotify-dev monodevelop xorg sddm\
 digimend-kernel-drivers-dkms-git plasma xdg-user-dirs btrfs-progs exfat-utils \
 f2fs-tools ntfs-3g xfsprogs terminator edex-ui man-db man-pages bash-completion \
